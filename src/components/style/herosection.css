@@ -1,0 +1,20 @@
+.main-container{
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.hero-img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  top: -50px;
+}
+
+.hero-content {
+  position: absolute;
+  top: 300px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+}

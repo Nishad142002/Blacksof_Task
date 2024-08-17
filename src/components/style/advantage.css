@@ -1,0 +1,66 @@
+.advantage-container{
+  width: 100%;
+  height: auto;
+
+}
+
+.advantage-box{
+  width: 50%;
+  max-height: 700px;
+  margin: 100px;
+}
+
+.box-one img{
+  width: 10%;
+  height: 20%;
+}
+.box-two img{
+  width: 15%;
+  height: 20%;
+}
+
+.advan-head{
+  text-align: center;
+  padding: 0 80px 20px 80px;
+}
+
+.adv-row{
+  height: 180px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 140%;
+}
+
+.advantage-box .adv-row .box-one{
+  width: 60%;
+  height: 100%;
+  border-bottom: 3px gray solid;
+  border-right: 3px gray solid;
+  box-shadow: 3px 3px 9px rgba(0, 0, 0, 0.3);
+  display: flex;
+  flex-direction: column;
+  align-items:flex-start;
+  justify-content:center;
+  padding-left: 20px;
+}
+
+.adv-row .box-two{
+  width: 40%;
+  height: 100%;
+  border-bottom: 3px gray solid;
+  box-shadow: 3px 3px 9px rgba(0, 0, 0, 0.3);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding-left: 20px;
+}
+
+#mid-box{
+  border-left: 3px gray solid;
+  box-shadow: 3px 3px 9px rgba(0, 0, 0, 0.3);
+  border-right: none;
+}
+
+            

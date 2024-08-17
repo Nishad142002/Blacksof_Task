@@ -1,0 +1,52 @@
+.product-container{
+  width: 100%;
+  height: auto;
+  background: rgb(178,201,215);
+  background: linear-gradient(126deg, rgba(178,201,215,1) 0%, rgba(227,232,236,1) 100%);
+  padding: 100px;
+}
+
+.pro-box{
+  width: 70%;
+  height: 60%;
+  margin-bottom: 60px;
+}
+
+.pro-container{
+  width: 60%;
+  margin-bottom: 50px;
+}
+
+.pro-head{
+  background: linear-gradient(260.95deg, rgba(255, 255, 255, 0) 4.29%, #EBF4FF 95.46%, #C9E2FF 95.46%);
+  width: 10%;
+  text-align: center;
+  padding-left: 20px;
+  color: #05476b;
+  font-weight: 700;
+}
+
+.btn-container button{
+  border-radius: 0;
+  font-size: smaller;
+  margin: 10px 15px 10px 0;
+}
+
+.btn-container button:hover{
+  border-color: #1a7af5;
+  background: rgb(79,169,245);
+  background: linear-gradient(90deg, rgba(79,169,245,0.768032212885154) 0%, rgba(252,252,252,1) 46%, rgba(79,169,245,1) 100%);
+}
+
+
+.pro-card{
+  max-width: 100%;
+  height: 500px;
+  margin-top: 20px;
+}
+
+.card{
+  background: rgb(254,255,255);
+  background: linear-gradient(125deg, rgba(254,255,255,1) 0%, rgba(227,245,255,1) 100%);
+}
+

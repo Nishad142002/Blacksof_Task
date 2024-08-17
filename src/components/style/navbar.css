@@ -1,0 +1,11 @@
+.nav-container{
+  width: 100%;
+  height: 100px;
+  padding: 26px 282px 27px 282px;
+  gap: 0px;
+  opacity: 0px;
+  border-bottom: 1px solid #FFFFFF1A;
+  position: absolute;
+  top: 0px;
+  
+}
